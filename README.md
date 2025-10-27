@@ -46,7 +46,7 @@ ESP32 → Python API → MySQL → n8n → Dashboard/Notifications
 
 ## 🚀 Quick Start
 ```bash
-git clone https://github.com/<yourname>/industry4.0-automation-platform.git
+git clone https://github.com/up-44/smart-data-automation.git
 cd python
 pip install -r requirements.txt
 python receiver.py
