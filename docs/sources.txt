@@ -1,0 +1,4 @@
+ESP32 / WROOM Firmware: https://micropython.org/download/ESP32_GENERIC/
+PIP: https://pypi.org/project/pip/
+Python:
+VS Code
