@@ -2,3 +2,4 @@ ESP32 / WROOM Firmware: https://micropython.org/download/ESP32_GENERIC/
 PIP: https://pypi.org/project/pip/
 Python:
 VS Code
+CPS: https://de.wikipedia.org/wiki/Cyber-physisches_System
